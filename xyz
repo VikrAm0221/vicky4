@@ -1,0 +1,7 @@
+git add .
+git status
+git stash - move files from staging area to temporaray storage area
+git chechout problem branch
+git checkout current branch
+git stash pop - temp storage to staging area
+git reset HEAD - staging area to local workspace
