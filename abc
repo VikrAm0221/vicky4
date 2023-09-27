@@ -8,3 +8,4 @@ where are you from
 where do you stay
 git = it ia a version control tool,it is used to track the versions of the file
 github = it is service
+git log --oneline =it shows the commit id
