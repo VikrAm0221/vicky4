@@ -5,3 +5,5 @@ git chechout problem branch
 git checkout current branch
 git stash pop - temp storage to staging area
 git reset HEAD - staging area to local workspace
+what is the use of branch :-
+it is used for parallel devolopment when 2 devolopers works on same piece of code to develop a set of features and integrate by merging
